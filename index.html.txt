@@ -1,24 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Web Lab</title>
-</head>
-<body>
+<hr>
 
-    <h1>Student Introduction</h1>
+<h2>Ain-ul-noor</h2>
+<p>Roll No: 240537</p>
+<p>Program: BSCS 2nd Semester</p>
 
-    <h2>Fahad Shabbir Bhatti</h2>
-    <p>Roll No: 240513</p>
-    <p>Program: BSCS 2nd Semester</p>
-
-    <p>
-        My name is Fahad Shabbir Bhatti. 
-        I am a student of BSCS at Air University.
-        I am interested in web development.
-        I enjoy learning Git and GitHub.
-        I am improving my programming skills.
-        I want to become a professional developer.
-    </p>
-
-</body>
-</html>
+<p>
+    My name is Ain-ul-Noor.
+    I am learning web technologies.
+    I am interested in frontend development.
+    I enjoy coding and problem solving.
+    I want to become a software engineer.
+</p>
